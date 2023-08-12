@@ -5,7 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ae9d0c-7d52-4ab9-ba2e-2e75938e6af9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-blueviolet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-brown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-cyan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkblue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkgreen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkmagenta.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkpink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkred.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors/main-darkred.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-darkyellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-indigo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-moodyblue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-nightskyblue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-red.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors/main-red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-redpink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-royalblue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-tangopink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-teal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors/main-yellowgreen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-kitzu-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/info-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/info-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/video.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,21 +71,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/xampp/htdocs/Portfolio",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +95,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691767884278</updated>
-      <workItem from="1691767885732" duration="3573000" />
+      <workItem from="1691767885732" duration="3702000" />
+      <workItem from="1691771763102" duration="321000" />
+      <workItem from="1691772175502" duration="49000" />
+      <workItem from="1691829042083" duration="8208000" />
     </task>
     <servers />
   </component>
